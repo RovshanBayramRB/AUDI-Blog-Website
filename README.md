@@ -1,1 +1,1 @@
-# AUDI-Blog-Website
+This project is designed as a blog page based on Front-End side of the web development. In this website, there is information about several models of AUDI cars such as their prices, pictures and other information. I used HTML, CSS, and JavaScript programming languages to develop the website.
